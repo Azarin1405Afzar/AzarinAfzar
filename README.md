@@ -1,22 +1,21 @@
 <img width="1536" height="1024" alt="73e6354b-64d7-438f-8783-8ff776047b7e" src="https://github.com/user-attachments/assets/170d1ef6-91f7-4334-9c38-7f54aa2c8647" />
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=AZARIN%20AFZAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C3%97%20Intelligence&descAlignY=58&descSize=22" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:D4AF37&height=220&section=header&text=AZARIN%20AFZAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C3%97%20Intelligence&descAlignY=58&descSize=22" width="100%">
 <br>
 
 <a href="#about">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+intelligent+software+systems;For+the+digital+future;Research+%C3%97+Engineering+%C3%97+Innovation" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+intelligent+software+systems;For+the+digital+future;Research+%C3%97+Engineering+%C3%97+Innovation" alt="Typing SVG">
 </a>
 
 <br><br>
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0F2027?style=for-the-badge"></a>
-<a href="#capabilities"><img src="https://img.shields.io/badge/CAPABILITIES-2C5364?style=for-the-badge"></a>
-<a href="#technology"><img src="https://img.shields.io/badge/TECHNOLOGY-00C9A7?style=for-the-badge"></a>
-<a href="#research"><img src="https://img.shields.io/badge/R%26D-2C5364?style=for-the-badge"></a>
-<a href="#work"><img src="https://img.shields.io/badge/WORK-0F2027?style=for-the-badge"></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-00C9A7?style=for-the-badge"></a>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0B132B?style=for-the-badge"></a>
+<a href="#capabilities"><img src="https://img.shields.io/badge/CAPABILITIES-1C2541?style=for-the-badge"></a>
+<a href="#technology"><img src="https://img.shields.io/badge/TECHNOLOGY-D4AF37?style=for-the-badge&logoColor=black&color=D4AF37"></a>
+<a href="#research"><img src="https://img.shields.io/badge/R%26D-1C2541?style=for-the-badge"></a>
+<a href="#work"><img src="https://img.shields.io/badge/WORK-0B132B?style=for-the-badge"></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-D4AF37?style=for-the-badge&color=D4AF37"></a>
 
 </div>
 
@@ -24,7 +23,7 @@
 
 <a id="about"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,23&height=3&width=100%">
+<img src="./assets/tech-divider.svg" width="100%">
 
 ## 🧬 About
 
@@ -38,9 +37,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RESEARCH-0F2027?style=flat-square"> ➜
-<img src="https://img.shields.io/badge/ENGINEERING-2C5364?style=flat-square"> ➜
-<img src="https://img.shields.io/badge/PRODUCTION-00C9A7?style=flat-square">
+<img src="https://img.shields.io/badge/RESEARCH-0B132B?style=flat-square"> ➜
+<img src="https://img.shields.io/badge/ENGINEERING-1C2541?style=flat-square"> ➜
+<img src="https://img.shields.io/badge/PRODUCTION-D4AF37?style=flat-square&color=D4AF37">
 
 </div>
 
@@ -137,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Research+%E2%9E%9C+Experiment+%E2%9E%9C+Prototype+%E2%9E%9C+Engineering+%E2%9E%9C+Production">
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=16&pause=1000&color=1C2541&center=true&vCenter=true&width=600&lines=Research+%E2%9E%9C+Experiment+%E2%9E%9C+Prototype+%E2%9E%9C+Engineering+%E2%9E%9C+Production">
 
 </div>
 
@@ -179,17 +178,17 @@
 
 <a id="contact"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,23&height=3&width=100%">
+<img src="./assets/tech-divider.svg" width="100%">
 
 ## 🤝 Collaboration
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Research-0F2027?style=flat-square">
-<img src="https://img.shields.io/badge/AI%20Engineering-2C5364?style=flat-square">
-<img src="https://img.shields.io/badge/Software-00C9A7?style=flat-square">
-<img src="https://img.shields.io/badge/Data-2C5364?style=flat-square">
-<img src="https://img.shields.io/badge/R%26D-0F2027?style=flat-square">
+<img src="https://img.shields.io/badge/Research-0B132B?style=flat-square">
+<img src="https://img.shields.io/badge/AI%20Engineering-1C2541?style=flat-square">
+<img src="https://img.shields.io/badge/Software-D4AF37?style=flat-square&color=D4AF37">
+<img src="https://img.shields.io/badge/Data-1C2541?style=flat-square">
+<img src="https://img.shields.io/badge/R%26D-0B132B?style=flat-square">
 
 </div>
 
@@ -201,5 +200,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=150&section=footer&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1C2541,100:0B132B&height=150&section=footer&animation=fadeIn&width=1400" width="100%">
+
 
