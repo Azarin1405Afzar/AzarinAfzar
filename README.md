@@ -174,7 +174,7 @@
 
 <a id="contact"></a>
 
-<img src="./assets/tech-divider.svg" width="100%">
+<img src="./tech-divider.svg" width="100%">
 
 ## 🤝 Collaboration
 
