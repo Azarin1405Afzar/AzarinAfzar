@@ -1,224 +1,232 @@
 <img width="1536" height="1024" alt="73e6354b-64d7-438f-8783-8ff776047b7e" src="https://github.com/user-attachments/assets/170d1ef6-91f7-4334-9c38-7f54aa2c8647" />
+<p align="center">
+  <a href="#about">About</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#capabilities">Capabilities</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#technology-stack">Technology</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#research--development">R&D</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#projects">Projects</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#collaboration">Collaboration</a>
+</p>
 
+<br>
 
-## درباره آذرین افزار
+<div dir="rtl">
 
-**آذرین افزار** یک مجموعه فناوری با تمرکز بر **هوش مصنوعی، مهندسی نرم‌افزار، علم داده و فناوری‌های نوین دیجیتال** است.
-
-ما با ترکیب **پژوهش، مهندسی و داده**، مسائل پیچیده را به راهکارهای واقعی، قابل توسعه و مقیاس‌پذیر تبدیل می‌کنیم.
-
-> **Research → Engineering → Innovation**
-
-هدف ما ایجاد پلی میان **دانش و کاربرد** است؛ از ایده و پژوهش اولیه تا توسعه الگوریتم، نرم‌افزار، سامانه و محصول.
-
----
-
-## در یک نگاه
+<h2 align="right">درباره آذرین افزار</h2>
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="65%" valign="top">
 
-### Artificial Intelligence
+<strong>آذرین افزار</strong> یک مجموعه فناوری در حوزه
+<strong>هوش مصنوعی، مهندسی نرم‌افزار، علم داده و نوآوری دیجیتال</strong>
+است.
 
-هوش مصنوعی و  
-یادگیری ماشین
+ما بر طراحی و توسعه راهکارهای داده‌محور و سیستم‌های هوشمند تمرکز داریم؛
+از مرحله پژوهش و توسعه الگوریتم تا مهندسی نرم‌افزار و پیاده‌سازی
+راهکارهای قابل استفاده در محیط واقعی.
 
-</td>
+<br><br>
 
-<td width="25%" align="center">
-
-### Software Engineering
-
-مهندسی و توسعه  
-نرم‌افزار
-
-</td>
-
-<td width="25%" align="center">
-
-### Data Science
-
-علم داده و  
-تحلیل اطلاعات
+<strong>Research</strong>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<strong>Engineering</strong>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<strong>Innovation</strong>
 
 </td>
 
-<td width="25%" align="center">
+<td width="35%" align="center">
 
-### Research & Development
+<strong>AZARIN AFZAR</strong>
 
-تحقیق، توسعه و  
-فناوری‌های نوظهور
+<br><br>
+
+Artificial Intelligence  
+Software Engineering  
+Data Science  
+Research & Development
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## حوزه‌های فعالیت
+<h2 align="right">حوزه‌های فعالیت</h2>
 
-<table>
+<table width="100%">
 <thead>
 <tr>
-<th align="center">حوزه</th>
-<th align="center">تمرکز</th>
-<th align="right">توانمندی‌ها</th>
+<th align="center">DOMAIN</th>
+<th align="center">FOCUS</th>
+<th align="right">CAPABILITIES</th>
 </tr>
 </thead>
 
 <tbody>
 
 <tr>
-<td align="center"><strong>هوش مصنوعی</strong></td>
-<td align="center">AI & Machine Learning</td>
-<td>
+<td align="center"><strong>Artificial Intelligence</strong></td>
+<td align="center">AI / ML</td>
+<td align="right">
 یادگیری ماشین · یادگیری عمیق · هوش مصنوعی مولد ·
-بینایی ماشین · پردازش زبان طبیعی
+پردازش زبان طبیعی
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>مهندسی نرم‌افزار</strong></td>
-<td align="center">Software Engineering</td>
-<td>
-طراحی و توسعه نرم‌افزار · معماری سیستم ·
-API · سامانه‌های تحت وب · سیستم‌های مقیاس‌پذیر
+<td align="center"><strong>Computer Vision</strong></td>
+<td align="center">Vision / Image</td>
+<td align="right">
+پردازش تصویر · تشخیص · طبقه‌بندی · تحلیل تصاویر پزشکی
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>علم داده</strong></td>
-<td align="center">Data Science</td>
-<td>
-پردازش داده · تحلیل داده · داده‌کاوی ·
-مدل‌سازی · پیش‌بینی · سیستم‌های تصمیم‌یار
+<td align="center"><strong>Software Engineering</strong></td>
+<td align="center">Systems / API</td>
+<td align="right">
+معماری نرم‌افزار · توسعه Backend · API ·
+سامانه‌های مقیاس‌پذیر
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>بینایی ماشین</strong></td>
-<td align="center">Computer Vision</td>
-<td>
-پردازش تصویر · تشخیص و طبقه‌بندی ·
-تحلیل تصاویر · پردازش تصاویر پزشکی
+<td align="center"><strong>Data Science</strong></td>
+<td align="center">Data / Analytics</td>
+<td align="right">
+پردازش داده · تحلیل · داده‌کاوی · مدل‌سازی · پیش‌بینی
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>تحقیق و توسعه</strong></td>
-<td align="center">Research & Development</td>
-<td>
-پژوهش هوش مصنوعی · توسعه الگوریتم ·
-فناوری‌های نوظهور · نمونه‌سازی و تحقیق کاربردی
+<td align="center"><strong>Research & Development</strong></td>
+<td align="center">R&D</td>
+<td align="right">
+تحقیق کاربردی · توسعه الگوریتم · نمونه‌سازی ·
+فناوری‌های نوظهور
 </td>
 </tr>
 
 </tbody>
 </table>
 
----
+<br>
 
-## فناوری‌ها
+<h2 align="right">Technology Stack</h2>
 
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-### AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
-
-### Data
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
-
-### Backend & Engineering
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=api&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-## معماری توانمندی‌ها
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Intelligence
+<strong>Languages</strong>
 
-**Artificial Intelligence**
+<br><br>
 
-Machine Learning  
-Deep Learning  
-Generative AI  
-Computer Vision  
-NLP
+<img src="https://img.shields.io/badge/Python-0A66FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-0A66FF?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-0A66FF?style=for-the-badge&logo=typescript&logoColor=white">
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Engineering
+<strong>AI & Machine Learning</strong>
 
-**Software Engineering**
+<br><br>
 
-System Architecture  
-Backend Development  
-API Design  
-Scalable Systems  
-Integration
+<img src="https://img.shields.io/badge/PyTorch-0A66FF?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-0A66FF?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-0A66FF?style=for-the-badge&logo=opencv&logoColor=white">
 
 </td>
 
-<td width="33%" align="center">
+</tr>
 
-### Data
+<tr>
 
-**Data & Analytics**
+<td width="50%" valign="top">
 
-Data Processing  
-Data Mining  
-Prediction  
-Analytics  
-Decision Support
+<strong>Data</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-0A66FF?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-0A66FF?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-0A66FF?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>Engineering</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FastAPI-0A66FF?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-0A66FF?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-0A66FF?style=for-the-badge&logo=git&logoColor=white">
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-## پروژه‌ها
+<h2 align="right">Research & Development</h2>
 
-پروژه‌های آذرین افزار در تقاطع **هوش مصنوعی، داده و مهندسی نرم‌افزار** تعریف و توسعه می‌شوند.
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+<strong>01</strong><br><br>
+Research
+</td>
 
-<table>
+<td align="center" width="20%">
+<strong>02</strong><br><br>
+Experiment
+</td>
+
+<td align="center" width="20%">
+<strong>03</strong><br><br>
+Prototype
+</td>
+
+<td align="center" width="20%">
+<strong>04</strong><br><br>
+Engineering
+</td>
+
+<td align="center" width="20%">
+<strong>05</strong><br><br>
+Production
+</td>
+</tr>
+</table>
+
+<p align="right">
+واحد تحقیق و توسعه آذرین افزار بر بررسی، ارزیابی و
+پیاده‌سازی فناوری‌های نوین در حوزه هوش مصنوعی و داده تمرکز دارد.
+</p>
+
+<br>
+
+<h2 align="right">Projects</h2>
+
+<table width="100%">
 <thead>
 <tr>
-<th align="center">دسته</th>
-<th align="right">محور پروژه</th>
-<th align="center">وضعیت</th>
+<th align="center">AREA</th>
+<th align="right">PROJECT FOCUS</th>
+<th align="center">STATUS</th>
 </tr>
 </thead>
 
@@ -226,56 +234,103 @@ Decision Support
 
 <tr>
 <td align="center">AI</td>
-<td>سامانه‌های هوشمند مبتنی بر یادگیری ماشین</td>
-<td align="center">Active</td>
+<td align="right">سامانه‌های هوشمند مبتنی بر یادگیری ماشین</td>
+<td align="center">ACTIVE</td>
 </tr>
 
 <tr>
 <td align="center">Computer Vision</td>
-<td>پردازش و تحلیل تصاویر</td>
-<td align="center">Active</td>
+<td align="right">پردازش و تحلیل تصاویر</td>
+<td align="center">ACTIVE</td>
 </tr>
 
 <tr>
 <td align="center">Medical AI</td>
-<td>تحلیل و پردازش تصاویر پزشکی</td>
+<td align="right">تحلیل تصاویر و داده‌های پزشکی</td>
 <td align="center">R&D</td>
 </tr>
 
 <tr>
 <td align="center">Data</td>
-<td>مدل‌های پیش‌بینی و سیستم‌های تصمیم‌یار</td>
+<td align="right">مدل‌های پیش‌بینی و سیستم‌های تصمیم‌یار</td>
 <td align="center">R&D</td>
 </tr>
 
 <tr>
 <td align="center">Software</td>
-<td>محصولات و سامانه‌های نرم‌افزاری هوشمند</td>
-<td align="center">Active</td>
+<td align="right">محصولات و سامانه‌های نرم‌افزاری هوشمند</td>
+<td align="center">ACTIVE</td>
 </tr>
 
 </tbody>
 </table>
 
----
+<br>
 
-## تحقیق و توسعه
+<h2 align="right">Collaboration</h2>
 
-واحد **Research & Development** آذرین افزار بر بررسی و پیاده‌سازی فناوری‌های نوین در حوزه‌های هوش مصنوعی و داده تمرکز دارد.
+<table width="100%">
+<tr>
+<td align="center">Research</td>
+<td align="center">Artificial Intelligence</td>
+<td align="center">Software</td>
+<td align="center">Data</td>
+<td align="center">R&D</td>
+</tr>
+</table>
 
-### مسیر توسعه فناوری
+<br>
 
-```text
-Research
-   │
-   ▼
-Experiment
-   │
-   ▼
-Prototype
-   │
-   ▼
-Engineering
-   │
-   ▼
-Production
+<h2 align="right">Vision</h2>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<strong>
+BUILDING INTELLIGENT SYSTEMS FOR THE DIGITAL FUTURE
+</strong>
+
+<br><br>
+
+آذرین افزار در مرز میان هوش مصنوعی،
+مهندسی نرم‌افزار، داده و نوآوری فعالیت می‌کند.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="right">Contact</h2>
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<strong>Website</strong><br>
+Coming Soon
+</td>
+
+<td align="center">
+<strong>Email</strong><br>
+Coming Soon
+</td>
+
+<td align="center">
+<strong>LinkedIn</strong><br>
+Coming Soon
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<strong>AZARIN AFZAR</strong>
+<br>
+<sub>CODE • INTELLIGENCE • FUTURE</sub>
+</p>
+
+</div>
