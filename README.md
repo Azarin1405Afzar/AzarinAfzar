@@ -1,127 +1,156 @@
-🚀 Azarin Afzar
-AI • Software Engineering • Digital Innovation
+# آذرین افزار
 
-Building intelligent solutions for a smarter future.
+### هوش مصنوعی | مهندسی نرم‌افزار | نوآوری دیجیتال
 
-👋 About Us
+---
 
-Azarin Afzar is a technology company focused on developing Artificial Intelligence, software solutions, and innovative digital products.
+## درباره آذرین افزار
 
-We combine modern software engineering with AI and data-driven technologies to transform complex problems into practical, scalable solutions.
+**آذرین افزار** یک مجموعه فناوری با تمرکز بر توسعه راهکارهای مبتنی بر هوش مصنوعی، مهندسی نرم‌افزار و فناوری‌های نوین دیجیتال است.
 
-🧠 What We Do
+ما با ترکیب پژوهش، مهندسی و فناوری‌های داده‌محور، به دنبال طراحی و توسعه راهکارهایی هستیم که بتوانند مسائل پیچیده را به محصولات و سامانه‌های کاربردی، قابل توسعه و مقیاس‌پذیر تبدیل کنند.
 
-<table> <tr> <td width="50%">
+---
 
-🤖 Artificial Intelligence
-Machine Learning
-Deep Learning
-Computer Vision
-Natural Language Processing
-Generative AI
+## حوزه‌های فعالیت
 
-</td> <td width="50%">
+### هوش مصنوعی
 
-💻 Software Engineering
-Web Applications
-Backend Development
-APIs & Microservices
-Cloud Solutions
-Software Architecture
+* یادگیری ماشین
+* یادگیری عمیق
+* بینایی ماشین
+* پردازش زبان طبیعی
+* هوش مصنوعی مولد
+* تحلیل و پردازش داده
 
-</td> </tr>
+### مهندسی نرم‌افزار
 
-<tr> <td width="50%">
+* طراحی و توسعه نرم‌افزار
+* توسعه سامانه‌های تحت وب
+* طراحی و توسعه API
+* معماری نرم‌افزار
+* توسعه سامانه‌های مقیاس‌پذیر
+* یکپارچه‌سازی سامانه‌ها
 
-📊 Data & Analytics
-Data Processing
-Predictive Analytics
-Data Mining
-Intelligent Decision Systems
-Data Visualization
+### علم داده و تحلیل اطلاعات
 
-</td> <td width="50%">
+* پردازش داده
+* تحلیل داده
+* مدل‌سازی و پیش‌بینی
+* داده‌کاوی
+* سیستم‌های تصمیم‌یار
+* استخراج دانش از داده
 
-🔬 Research & Innovation
-AI Research
-Medical AI
-Intelligent Systems
-Experimental Technologies
-Applied Research
+### تحقیق و توسعه
 
-</td> </tr> </table>
+* پژوهش در حوزه هوش مصنوعی
+* پردازش تصاویر
+* تحلیل تصاویر پزشکی
+* توسعه الگوریتم‌های هوشمند
+* طراحی سامانه‌های مبتنی بر داده
+* بررسی و پیاده‌سازی فناوری‌های نوظهور
 
-🛠️ Technology Stack
-Artificial Intelligence
+---
 
+## رویکرد ما
 
+فعالیت آذرین افزار بر سه اصل اصلی استوار است:
 
+**پژوهش**
+بررسی علمی مسائل و استفاده از دانش و روش‌های به‌روز برای دستیابی به راهکارهای قابل اتکا.
 
+**مهندسی**
+تبدیل ایده‌ها و نتایج پژوهشی به سامانه‌ها و نرم‌افزارهای پایدار، قابل توسعه و کاربردی.
 
+**نوآوری**
+استفاده از فناوری‌های نوین برای ایجاد راهکارهای جدید و پاسخ به نیازهای واقعی.
 
+---
 
-Software
+## فناوری‌ها
 
+برخی از فناوری‌ها و ابزارهایی که در پروژه‌های ما مورد استفاده قرار می‌گیرند:
 
+**زبان‌ها و محیط‌های توسعه**
 
+Python، JavaScript، TypeScript
 
+**هوش مصنوعی و یادگیری ماشین**
 
+PyTorch، TensorFlow، Scikit-learn، OpenCV
 
+**پردازش و تحلیل داده**
 
-Data
+NumPy، Pandas
 
+**توسعه نرم‌افزار**
 
+FastAPI، REST API، Docker، Git
 
+---
 
+## پروژه‌ها
 
+در این سازمان، پروژه‌ها در حوزه‌های مختلف هوش مصنوعی، نرم‌افزار و تحقیق و توسعه انجام می‌شوند.
 
-🌟 Featured Projects
+برخی از محورهای پروژه‌ای ما عبارت‌اند از:
 
-A selection of our research, engineering, and AI projects.
+* سامانه‌های هوشمند مبتنی بر یادگیری ماشین
+* تحلیل و پردازش تصاویر
+* بینایی ماشین
+* پردازش زبان طبیعی
+* تحلیل داده‌های پزشکی
+* سیستم‌های پیش‌بینی و تصمیم‌یار
+* محصولات و خدمات نرم‌افزاری مبتنی بر هوش مصنوعی
 
-Project	Description	Technology
-🧠 AI Solutions	Intelligent systems powered by machine learning and deep learning	Python • PyTorch
-👁️ Computer Vision	Image analysis and visual intelligence solutions	OpenCV • Deep Learning
-🏥 Medical AI	AI-driven analysis of medical data and images	Python • Deep Learning
-📊 Data Intelligence	Data-driven analytics and predictive systems	Python • ML
-🌐 Digital Products	Modern software products and intelligent applications	Web • API • AI
-🔬 Research & Development
+برای مشاهده جزئیات هر پروژه، به مخزن مربوط به آن مراجعه کنید.
 
-Our R&D activities focus on applying emerging technologies to real-world challenges.
+---
 
-Areas of interest:
+## تحقیق و توسعه
 
-Artificial Intelligence
-Deep Learning
-Computer Vision
-Natural Language Processing
-Generative AI
-Medical Image Analysis
-Intelligent Decision Systems
-Data Science
-🌍 Our Vision
+واحد تحقیق و توسعه آذرین افزار با هدف بررسی فناوری‌های نوین و توسعه راهکارهای مبتنی بر هوش مصنوعی فعالیت می‌کند.
 
-Technology should not only solve today's problems — it should create tomorrow's possibilities.
+تمرکز این بخش بر ایجاد ارتباط میان پژوهش دانشگاهی و کاربردهای واقعی فناوری است؛ به‌گونه‌ای که نتایج پژوهش بتوانند در قالب الگوریتم، نرم‌افزار، سامانه یا محصول مورد استفاده قرار گیرند.
 
-We aim to build reliable, intelligent, and scalable technologies that create meaningful impact across industries.
+---
 
-🤝 Collaboration
+## همکاری
 
-We are open to collaboration in:
+آذرین افزار از همکاری در زمینه‌های زیر استقبال می‌کند:
 
-AI & Machine Learning
-Software Development
-Research Projects
-Open Source
-Technology Partnerships
-📫 Connect With Us
+* پروژه‌های تحقیقاتی و صنعتی
+* توسعه راهکارهای هوش مصنوعی
+* توسعه نرم‌افزار
+* پروژه‌های بینایی ماشین و پردازش تصویر
+* علم داده و تحلیل اطلاعات
+* توسعه محصولات فناورانه
+* همکاری‌های پژوهشی و فناورانه
 
-Azarin Afzar
+---
 
-🌐 Website: Coming Soon
-💼 LinkedIn: Coming Soon
-📧 Email: Coming Soon
+## چشم‌انداز
 
-<p align="center"> <b>Azarin Afzar</b><br> <sub>AI • Software • Innovation</sub> </p>
+هدف ما ایجاد مجموعه‌ای فناورانه است که در مرز میان **هوش مصنوعی، نرم‌افزار و نوآوری** فعالیت کند و با توسعه راهکارهای قابل اعتماد و کاربردی، بخشی از نیازهای آینده فناوری را پاسخ دهد.
 
-<p align="center"> <i>Building the future with intelligent technology.</i> </p>
+> آذرین افزار؛ توسعه فناوری برای ساختن راهکارهای هوشمند آینده.
+
+---
+
+## ارتباط با ما
+
+**آذرین افزار**
+
+وب‌سایت: در حال راه‌اندازی
+
+ایمیل: در حال راه‌اندازی
+
+LinkedIn: در حال راه‌اندازی
+
+---
+
+<p align="center">
+  آذرین افزار
+  <br>
+  هوش مصنوعی | نرم‌افزار | نوآوری
+</p>
