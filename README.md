@@ -25,8 +25,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:D4AF37&height=220&section=header&text=AZARIN%20AFZAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C3%97%20Intelligence&descAlignY=58&descSize=22" width="100%">
-
 <br>
 
 <a href="#about">
