@@ -1,172 +1,130 @@
 <img width="1536" height="1024" alt="73e6354b-64d7-438f-8783-8ff776047b7e" src="https://github.com/user-attachments/assets/170d1ef6-91f7-4334-9c38-7f54aa2c8647" />
 <div align="center">
-<div align="center">
 
-# AZARIN AFZAR
+<img src="./assets/azarin-afzar-banner.png" width="100%" alt="Azarin Afzar">
 
-### SOFTWARE × INTELLIGENCE
+<h1>AZARIN AFZAR</h1>
+<h3>Software × Intelligence</h3>
+
+<p>Building intelligent software systems for the digital future.</p>
 
 <p>
-Building intelligent software systems for the digital future.
+  <a href="#about">About</a> •
+  <a href="#capabilities">Capabilities</a> •
+  <a href="#technology">Technology</a> •
+  <a href="#research">R&D</a> •
+  <a href="#work">Work</a> •
+  <a href="#contact">Contact</a>
 </p>
-
-<br>
-
-<a href="#about">ABOUT</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#capabilities">CAPABILITIES</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#technology">TECHNOLOGY</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#research">R&D</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#work">WORK</a>
 
 </div>
 
 <br>
-
----
 
 <a id="about"></a>
 
-<div align="center">
-
-## ABOUT
-
-<br>
-
-**AZARIN AFZAR**
-
-</div>
+## About
 
 <div dir="rtl">
 
-آذرین افزار یک مجموعه فناوری در تقاطع **هوش مصنوعی، مهندسی نرم‌افزار و داده** است.
+**آذرین افزار** یک مجموعه فناوری در تقاطع **هوش مصنوعی، مهندسی نرم‌افزار و داده** است.
 
 ما بر طراحی و توسعه سیستم‌های هوشمند و محصولات نرم‌افزاری تمرکز داریم؛ از پژوهش و آزمایش یک ایده تا تبدیل آن به یک سیستم مهندسی‌شده، قابل توسعه و قابل استفاده در دنیای واقعی.
 
 </div>
 
-<br>
-
 <div align="center">
 
-`RESEARCH` &nbsp; → &nbsp; `ENGINEERING` &nbsp; → &nbsp; `PRODUCTION`
+**Research → Engineering → Production**
 
 </div>
 
 <br>
-
----
 
 <a id="capabilities"></a>
 
-<div align="center">
+## Capabilities
 
-## CAPABILITIES
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Artificial Intelligence**
+<div dir="rtl">یادگیری ماشین، یادگیری عمیق، هوش مصنوعی مولد، پردازش زبان طبیعی و سیستم‌های هوشمند.</div>
+
+</td>
+<td width="50%" valign="top">
+
+**👁️ Computer Vision**
+<div dir="rtl">پردازش تصویر، تشخیص و طبقه‌بندی، تحلیل داده‌های بصری و پردازش تصاویر پزشکی.</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Software Engineering**
+<div dir="rtl">معماری نرم‌افزار، توسعه Backend، طراحی API، سامانه‌های مقیاس‌پذیر و یکپارچه‌سازی سیستم‌ها.</div>
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Data & Intelligence**
+<div dir="rtl">پردازش و تحلیل داده، داده‌کاوی، مدل‌سازی، پیش‌بینی و سیستم‌های تصمیم‌یار.</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🔬 Research & Development**
+<div dir="rtl">پژوهش کاربردی، توسعه الگوریتم، نمونه‌سازی، ارزیابی فناوری و بررسی فناوری‌های نوظهور.</div>
+
+</td>
+</tr>
+</table>
 
 <br>
-
-</div>
-
-<div dir="rtl">
-
-### ARTIFICIAL INTELLIGENCE
-
-یادگیری ماشین، یادگیری عمیق، هوش مصنوعی مولد، پردازش زبان طبیعی و سیستم‌های هوشمند.
-
-### COMPUTER VISION
-
-پردازش تصویر، تشخیص و طبقه‌بندی، تحلیل داده‌های بصری و پردازش تصاویر پزشکی.
-
-### SOFTWARE ENGINEERING
-
-معماری نرم‌افزار، توسعه Backend، طراحی API، سامانه‌های مقیاس‌پذیر و یکپارچه‌سازی سیستم‌ها.
-
-### DATA & INTELLIGENCE
-
-پردازش و تحلیل داده، داده‌کاوی، مدل‌سازی، پیش‌بینی و سیستم‌های تصمیم‌یار.
-
-### RESEARCH & DEVELOPMENT
-
-پژوهش کاربردی، توسعه الگوریتم، نمونه‌سازی، ارزیابی فناوری و بررسی فناوری‌های نوظهور.
-
-</div>
-
-<br>
-
-<div align="center">
-
-`AI` &nbsp;&nbsp; `VISION` &nbsp;&nbsp; `SOFTWARE` &nbsp;&nbsp; `DATA` &nbsp;&nbsp; `R&D`
-
-</div>
-
-<br>
-
----
 
 <a id="technology"></a>
 
-<div align="center">
+## Technology
 
-## TECHNOLOGY
+**Languages**
 
-<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<img src="https://img.shields.io/badge/PYTHON-0A66FF?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TYPESCRIPT-0A66FF?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-0A66FF?style=for-the-badge&logo=javascript&logoColor=white">
+**AI / ML**
 
-<br><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
-<img src="https://img.shields.io/badge/PYTORCH-0A66FF?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TENSORFLOW-0A66FF?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/OPENCV-0A66FF?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-0A66FF?style=for-the-badge&logo=scikit-learn&logoColor=white">
+**Data**
 
-<br><br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-<img src="https://img.shields.io/badge/NUMPY-0A66FF?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/PANDAS-0A66FF?style=for-the-badge&logo=pandas&logoColor=white">
+**Infrastructure**
 
-<br><br>
-
-<img src="https://img.shields.io/badge/FASTAPI-0A66FF?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/DOCKER-0A66FF?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-0A66FF?style=for-the-badge&logo=git&logoColor=white">
-
-</div>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <br>
-
----
 
 <a id="research"></a>
 
+## Research & Development
+
 <div align="center">
 
-## RESEARCH & DEVELOPMENT
-
-<br>
-
-### FROM IDEA TO PRODUCTION
-
-<br>
-
-`01 RESEARCH`
-&nbsp;&nbsp;→&nbsp;&nbsp;
-`02 EXPERIMENT`
-&nbsp;&nbsp;→&nbsp;&nbsp;
-`03 PROTOTYPE`
-&nbsp;&nbsp;→&nbsp;&nbsp;
-`04 ENGINEERING`
-&nbsp;&nbsp;→&nbsp;&nbsp;
-`05 PRODUCTION`
+`Research` → `Experiment` → `Prototype` → `Engineering` → `Production`
 
 </div>
-
-<br>
 
 <div dir="rtl">
 
@@ -178,115 +136,39 @@ Building intelligent software systems for the digital future.
 
 <br>
 
----
-
 <a id="work"></a>
 
+## Selected Work
+
+| Area | Description | Stack |
+|---|---|---|
+| **Intelligent Systems** | <div dir="rtl">سامانه‌های هوشمند مبتنی بر یادگیری ماشین برای مسائل پیچیده و کاربردهای واقعی.</div> | `Python` `PyTorch` `FastAPI` |
+| **Computer Vision** | <div dir="rtl">سیستم‌های پردازش تصویر، بینایی ماشین و تحلیل داده‌های بصری.</div> | `Python` `PyTorch` `OpenCV` |
+| **Medical AI** | <div dir="rtl">تحقیق و توسعه راهکارهای هوشمند برای تحلیل تصاویر و داده‌های پزشکی.</div> | `Deep Learning` `CV` `R&D` |
+| **Data Systems** | <div dir="rtl">مدل‌سازی، تحلیل، پیش‌بینی و سیستم‌های تصمیم‌یار داده‌محور.</div> | `Python` `NumPy` `Pandas` |
+| **Software Platforms** | <div dir="rtl">طراحی و توسعه محصولات نرم‌افزاری، APIها و سامانه‌های مقیاس‌پذیر.</div> | `TypeScript` `FastAPI` `Docker` |
+
+<br>
+
+## Engineering Philosophy
+
 <div align="center">
 
-## SELECTED WORK
-
-<br>
-
-</div>
-
-<div dir="rtl">
-
-### INTELLIGENT SYSTEMS
-
-سامانه‌های هوشمند مبتنی بر یادگیری ماشین برای مسائل پیچیده و کاربردهای واقعی.
-
-`PYTHON` `PYTORCH` `FASTAPI`
-
-<br>
-
-### COMPUTER VISION
-
-سیستم‌های پردازش تصویر، بینایی ماشین و تحلیل داده‌های بصری.
-
-`PYTHON` `PYTORCH` `OPENCV`
-
-<br>
-
-### MEDICAL AI
-
-تحقیق و توسعه راهکارهای هوشمند برای تحلیل تصاویر و داده‌های پزشکی.
-
-`DEEP LEARNING` `COMPUTER VISION` `R&D`
-
-<br>
-
-### DATA SYSTEMS
-
-مدل‌سازی، تحلیل، پیش‌بینی و سیستم‌های تصمیم‌یار داده‌محور.
-
-`PYTHON` `NUMPY` `PANDAS`
-
-<br>
-
-### SOFTWARE PLATFORMS
-
-طراحی و توسعه محصولات نرم‌افزاری، APIها و سامانه‌های مقیاس‌پذیر.
-
-`TYPESCRIPT` `FASTAPI` `DOCKER`
+| Research | Engineering | Innovation |
+|:---:|:---:|:---:|
+| Understand the problem | Build reliable systems | Create useful technology |
 
 </div>
 
 <br>
 
----
+<a id="contact"></a>
+
+## Collaboration
 
 <div align="center">
 
-## ENGINEERING PHILOSOPHY
-
-<br>
-
-<strong>RESEARCH</strong>
-
-<br>
-
-Understand the problem.
-
-<br><br>
-
-<strong>ENGINEERING</strong>
-
-<br>
-
-Build reliable systems.
-
-<br><br>
-
-<strong>INNOVATION</strong>
-
-<br>
-
-Create useful technology.
-
-<br><br>
-
-`RESEARCH` × `ENGINEERING` × `INNOVATION`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## COLLABORATION
-
-<br>
-
-<p>
-Research &nbsp;·&nbsp;
-AI Engineering &nbsp;·&nbsp;
-Software &nbsp;·&nbsp;
-Data &nbsp;·&nbsp;
-R&D
-</p>
+Research · AI Engineering · Software · Data · R&D
 
 </div>
 
@@ -302,31 +184,7 @@ R&D
 
 <div align="center">
 
-# BUILDING INTELLIGENT SYSTEMS
-
-### FOR THE DIGITAL FUTURE
-
-<br>
-
-`ARTIFICIAL INTELLIGENCE`
-&nbsp;&nbsp;×&nbsp;&nbsp;
-`SOFTWARE ENGINEERING`
-&nbsp;&nbsp;×&nbsp;&nbsp;
-`DATA`
-&nbsp;&nbsp;×&nbsp;&nbsp;
-`INNOVATION`
-
-<br><br>
-
-<sub>
-
-AZARIN AFZAR
-
-<br>
-
-CODE · INTELLIGENCE · FUTURE
-
-</sub>
+<sub>AZARIN AFZAR · Code · Intelligence · Future</sub>
 
 <br><br>
 
