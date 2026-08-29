@@ -19,7 +19,7 @@
 
 <a id="about"></a>
 
-<img src="./assets/tech-divider.svg" width="100%">
+<img src="./tech-divider.svg" width="100%">
 
 ## 🧬 About
 
@@ -196,7 +196,7 @@
 
 <br>
 
-<img src="./assets/footer-banner.svg" width="100%">
+<img src="./footer-banner.svg" width="100%">
 
 
 
