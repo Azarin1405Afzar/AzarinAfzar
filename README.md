@@ -24,8 +24,6 @@
 
 <a id="about"></a>
 
-<img width="300" height="150" alt="tech-divider" src="https://github.com/user-attachments/assets/fd1952b1-780c-4354-9044-7970d202e972" />
-
 ## 🧬 About
 
 **آذرین افزار** یک مجموعه فناوری در تقاطع **هوش مصنوعی، مهندسی نرم‌افزار و داده** است.
