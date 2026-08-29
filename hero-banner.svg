@@ -1,0 +1,162 @@
+<svg width="100%" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#1C2541"/>
+      <stop offset="60%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#05070F"/>
+    </radialGradient>
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4C430"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D4AF37" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#D4AF37" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#glow)"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+
+  <!-- Left circuit traces (flowing light) -->
+  <g fill="none" stroke="#D4AF37" stroke-width="1.6" stroke-opacity="0.5">
+    <path id="lp1" d="M0,60 H180 V140 H320 V90 H480">
+      <animate attributeName="stroke-dashoffset" from="0" to="-400" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path id="lp2" d="M0,340 H140 V260 H300 V310 H460">
+      <animate attributeName="stroke-dashoffset" from="0" to="-400" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="none" stroke="#D4AF37" stroke-width="1.6" stroke-opacity="0.9" stroke-dasharray="10 14">
+    <path d="M0,60 H180 V140 H320 V90 H480">
+      <animate attributeName="stroke-dashoffset" values="0;-48" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,340 H140 V260 H300 V310 H460">
+      <animate attributeName="stroke-dashoffset" values="0;-48" dur="1.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Right circuit traces (flowing light) -->
+  <g fill="none" stroke="#D4AF37" stroke-width="1.6" stroke-opacity="0.9" stroke-dasharray="10 14">
+    <path d="M1600,70 H1420 V150 H1280 V100 H1140">
+      <animate attributeName="stroke-dashoffset" values="0;48" dur="1.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1600,350 H1460 V270 H1300 V320 H1150">
+      <animate attributeName="stroke-dashoffset" values="0;48" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- circuit joints -->
+  <g fill="#F4C430">
+    <circle cx="180" cy="60" r="3.5"/>
+    <circle cx="320" cy="140" r="3.5"/>
+    <circle cx="1420" cy="70" r="3.5"/>
+    <circle cx="1280" cy="150" r="3.5"/>
+  </g>
+
+  <!-- Neural network (left) -->
+  <g transform="translate(150,210)">
+    <g stroke="#D4AF37" stroke-width="1.3" stroke-opacity="0.6">
+      <line x1="0" y1="-40" x2="55" y2="-15"/>
+      <line x1="0" y1="0" x2="55" y2="-15"/>
+      <line x1="0" y1="0" x2="55" y2="20"/>
+      <line x1="0" y1="40" x2="55" y2="20"/>
+      <line x1="55" y1="-15" x2="105" y2="2"/>
+      <line x1="55" y1="20" x2="105" y2="2"/>
+    </g>
+    <g fill="#EAF2FF">
+      <circle cx="0" cy="-40" r="5"/>
+      <circle cx="0" cy="0" r="5"/>
+      <circle cx="0" cy="40" r="5"/>
+    </g>
+    <g fill="#F4C430">
+      <circle cx="55" cy="-15" r="5"/>
+      <circle cx="55" cy="20" r="5"/>
+    </g>
+    <circle cx="105" cy="2" r="7" fill="#D4AF37">
+      <animate attributeName="r" values="7;9;7" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Chip icon (right upper) -->
+  <g transform="translate(1440,140)">
+    <rect x="-26" y="-26" width="52" height="52" rx="5" fill="#0B132B" stroke="#F4C430" stroke-width="2"/>
+    <rect x="-12" y="-12" width="24" height="24" fill="#D4AF37" fill-opacity="0.3"/>
+    <g stroke="#F4C430" stroke-width="2">
+      <line x1="-36" y1="-16" x2="-26" y2="-16"/>
+      <line x1="-36" y1="0" x2="-26" y2="0"/>
+      <line x1="-36" y1="16" x2="-26" y2="16"/>
+      <line x1="36" y1="-16" x2="26" y2="-16"/>
+      <line x1="36" y1="0" x2="26" y2="0"/>
+      <line x1="36" y1="16" x2="26" y2="16"/>
+      <line x1="-16" y1="-36" x2="-16" y2="-26"/>
+      <line x1="16" y1="-36" x2="16" y2="-26"/>
+      <line x1="-16" y1="36" x2="-16" y2="26"/>
+      <line x1="16" y1="36" x2="16" y2="26"/>
+    </g>
+  </g>
+
+  <!-- Gear icon (right lower) -->
+  <g transform="translate(1460,290)">
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#EAF2FF" stroke-width="3.2"/>
+    <circle cx="0" cy="0" r="4.5" fill="#EAF2FF"/>
+    <g stroke="#EAF2FF" stroke-width="3.2">
+      <line x1="0" y1="-25" x2="0" y2="-16"/>
+      <line x1="0" y1="25" x2="0" y2="16"/>
+      <line x1="-25" y1="0" x2="-16" y2="0"/>
+      <line x1="25" y1="0" x2="16" y2="0"/>
+      <line x1="-17.7" y1="-17.7" x2="-11.3" y2="-11.3"/>
+      <line x1="17.7" y1="17.7" x2="11.3" y2="11.3"/>
+      <line x1="-17.7" y1="17.7" x2="-11.3" y2="11.3"/>
+      <line x1="17.7" y1="-17.7" x2="11.3" y2="-11.3"/>
+    </g>
+    <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="12s" repeatCount="indefinite" additive="sum"/>
+  </g>
+
+  <!-- Binary flicker columns -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#D4AF37">
+    <text x="40" y="180" opacity="0.35">01001</text>
+    <text x="40" y="200" opacity="0.2">11010</text>
+    <text x="1520" y="220" opacity="0.35">10110</text>
+    <text x="1520" y="240" opacity="0.2">00101</text>
+    <animate xlink:href="#lp1" attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Title -->
+  <text x="800" y="185" text-anchor="middle" font-family="Arial, 'Segoe UI', Helvetica, sans-serif" font-weight="800" font-size="78" letter-spacing="6" fill="url(#goldText)" filter="url(#softGlow)">AZARIN AFZAR</text>
+
+  <!-- Subtitle -->
+  <text x="800" y="228" text-anchor="middle" font-family="Arial, 'Segoe UI', Helvetica, sans-serif" font-weight="500" font-size="22" letter-spacing="8" fill="#EAF2FF">SOFTWARE  ×  INTELLIGENCE</text>
+
+  <!-- Typewriter tagline -->
+  <g>
+    <clipPath id="typeClip">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.42;0.82;0.92;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <g clip-path="url(#typeClip)">
+      <text x="480" y="278" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#D4AF37">Building Intelligent Software Systems</text>
+    </g>
+    <rect x="480" y="260" width="2.5" height="22" fill="#D4AF37">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="480;480" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="390" width="1600" height="2.5" fill="url(#accentLine)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
