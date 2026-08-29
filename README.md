@@ -2,7 +2,7 @@
 <div align="center">
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%">
+<img src="./hero-banner.svg" width="100%">
 
 <br>
 
