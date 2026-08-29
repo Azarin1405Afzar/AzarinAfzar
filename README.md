@@ -1,21 +1,22 @@
 <img width="1536" height="1024" alt="73e6354b-64d7-438f-8783-8ff776047b7e" src="https://github.com/user-attachments/assets/170d1ef6-91f7-4334-9c38-7f54aa2c8647" />
 <div align="center">
 
-<img src="./assets/azarin-afzar-banner.png" width="100%" alt="Azarin Afzar">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=AZARIN%20AFZAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C3%97%20Intelligence&descAlignY=58&descSize=22" width="100%">
 
-<h1>AZARIN AFZAR</h1>
-<h3>Software × Intelligence</h3>
+<br>
 
-<p>Building intelligent software systems for the digital future.</p>
+<a href="#about">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+intelligent+software+systems;For+the+digital+future;Research+%C3%97+Engineering+%C3%97+Innovation" alt="Typing SVG">
+</a>
 
-<p>
-  <a href="#about">About</a> •
-  <a href="#capabilities">Capabilities</a> •
-  <a href="#technology">Technology</a> •
-  <a href="#research">R&D</a> •
-  <a href="#work">Work</a> •
-  <a href="#contact">Contact</a>
-</p>
+<br><br>
+
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0F2027?style=for-the-badge"></a>
+<a href="#capabilities"><img src="https://img.shields.io/badge/CAPABILITIES-2C5364?style=for-the-badge"></a>
+<a href="#technology"><img src="https://img.shields.io/badge/TECHNOLOGY-00C9A7?style=for-the-badge"></a>
+<a href="#research"><img src="https://img.shields.io/badge/R%26D-2C5364?style=for-the-badge"></a>
+<a href="#work"><img src="https://img.shields.io/badge/WORK-0F2027?style=for-the-badge"></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-00C9A7?style=for-the-badge"></a>
 
 </div>
 
@@ -23,7 +24,9 @@
 
 <a id="about"></a>
 
-## About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,23&height=3&width=100%">
+
+## 🧬 About
 
 <div dir="rtl">
 
@@ -35,7 +38,9 @@
 
 <div align="center">
 
-**Research → Engineering → Production**
+<img src="https://img.shields.io/badge/RESEARCH-0F2027?style=flat-square"> ➜
+<img src="https://img.shields.io/badge/ENGINEERING-2C5364?style=flat-square"> ➜
+<img src="https://img.shields.io/badge/PRODUCTION-00C9A7?style=flat-square">
 
 </div>
 
@@ -43,19 +48,19 @@
 
 <a id="capabilities"></a>
 
-## Capabilities
+## ⚡ Capabilities
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Artificial Intelligence**
+### 🧠 Artificial Intelligence
 <div dir="rtl">یادگیری ماشین، یادگیری عمیق، هوش مصنوعی مولد، پردازش زبان طبیعی و سیستم‌های هوشمند.</div>
 
 </td>
 <td width="50%" valign="top">
 
-**👁️ Computer Vision**
+### 👁️ Computer Vision
 <div dir="rtl">پردازش تصویر، تشخیص و طبقه‌بندی، تحلیل داده‌های بصری و پردازش تصاویر پزشکی.</div>
 
 </td>
@@ -63,13 +68,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**⚙️ Software Engineering**
+### ⚙️ Software Engineering
 <div dir="rtl">معماری نرم‌افزار، توسعه Backend، طراحی API، سامانه‌های مقیاس‌پذیر و یکپارچه‌سازی سیستم‌ها.</div>
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Data & Intelligence**
+### 📊 Data & Intelligence
 <div dir="rtl">پردازش و تحلیل داده، داده‌کاوی، مدل‌سازی، پیش‌بینی و سیستم‌های تصمیم‌یار.</div>
 
 </td>
@@ -77,7 +82,7 @@
 <tr>
 <td colspan="2" valign="top">
 
-**🔬 Research & Development**
+### 🔬 Research & Development
 <div dir="rtl">پژوهش کاربردی، توسعه الگوریتم، نمونه‌سازی، ارزیابی فناوری و بررسی فناوری‌های نوظهور.</div>
 
 </td>
@@ -88,41 +93,51 @@
 
 <a id="technology"></a>
 
-## Technology
+## 🛠️ Technology
+
+<div align="center">
 
 **Languages**
-
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-**AI / ML**
+<br><br>
 
+**AI / ML**
+<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
-**Data**
+<br><br>
 
+**Data**
+<br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-**Infrastructure**
+<br><br>
 
+**Infrastructure**
+<br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+</div>
 
 <br>
 
 <a id="research"></a>
 
-## Research & Development
+## 🔬 Research & Development
 
 <div align="center">
 
-`Research` → `Experiment` → `Prototype` → `Engineering` → `Production`
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Research+%E2%9E%9C+Experiment+%E2%9E%9C+Prototype+%E2%9E%9C+Engineering+%E2%9E%9C+Production">
 
 </div>
 
@@ -138,7 +153,7 @@
 
 <a id="work"></a>
 
-## Selected Work
+## 💼 Selected Work
 
 | Area | Description | Stack |
 |---|---|---|
@@ -150,11 +165,11 @@
 
 <br>
 
-## Engineering Philosophy
+## 🎯 Engineering Philosophy
 
 <div align="center">
 
-| Research | Engineering | Innovation |
+| 🔍 Research | 🏗️ Engineering | 💡 Innovation |
 |:---:|:---:|:---:|
 | Understand the problem | Build reliable systems | Create useful technology |
 
@@ -164,11 +179,17 @@
 
 <a id="contact"></a>
 
-## Collaboration
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,23&height=3&width=100%">
+
+## 🤝 Collaboration
 
 <div align="center">
 
-Research · AI Engineering · Software · Data · R&D
+<img src="https://img.shields.io/badge/Research-0F2027?style=flat-square">
+<img src="https://img.shields.io/badge/AI%20Engineering-2C5364?style=flat-square">
+<img src="https://img.shields.io/badge/Software-00C9A7?style=flat-square">
+<img src="https://img.shields.io/badge/Data-2C5364?style=flat-square">
+<img src="https://img.shields.io/badge/R%26D-0F2027?style=flat-square">
 
 </div>
 
@@ -180,14 +201,5 @@ Research · AI Engineering · Software · Data · R&D
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=150&section=footer&animation=fadeIn">
 
-<div align="center">
-
-<sub>AZARIN AFZAR · Code · Intelligence · Future</sub>
-
-<br><br>
-
-<img src="./assets/azarin-afzar-mark.svg" width="64" alt="Azarin Afzar">
-
-</div>
