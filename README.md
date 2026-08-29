@@ -1,9 +1,6 @@
 <img width="1536" height="1024" alt="73e6354b-64d7-438f-8783-8ff776047b7e" src="https://github.com/user-attachments/assets/170d1ef6-91f7-4334-9c38-7f54aa2c8647" />
 <div align="center">
-
-<img src="./assets/azarin-afzar-banner.png" width="100%" alt="Azarin Afzar">
-
-<br><br>
+<div align="center">
 
 # AZARIN AFZAR
 
