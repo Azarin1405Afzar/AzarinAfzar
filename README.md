@@ -2,8 +2,6 @@
 <div align="center">
 <div align="center">
 
-<img src="./hero-banner.svg" width="100%">
-
 <br>
 
 <a href="#about"><img src="https://img.shields.io/badge/ABOUT-0B132B?style=for-the-badge"></a>
@@ -21,7 +19,7 @@
 
 <img src="./tech-divider.svg" width="100%">
 
-## 🧬 About
+##  About
 
 <div dir="rtl">
 
@@ -43,19 +41,19 @@
 
 <a id="capabilities"></a>
 
-## ⚡ Capabilities
+##  Capabilities
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Artificial Intelligence
+###  Artificial Intelligence
 <div dir="rtl">یادگیری ماشین، یادگیری عمیق، هوش مصنوعی مولد، پردازش زبان طبیعی و سیستم‌های هوشمند.</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ Computer Vision
+###  Computer Vision
 <div dir="rtl">پردازش تصویر، تشخیص و طبقه‌بندی، تحلیل داده‌های بصری و پردازش تصاویر پزشکی.</div>
 
 </td>
@@ -63,13 +61,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Software Engineering
+###  Software Engineering
 <div dir="rtl">معماری نرم‌افزار، توسعه Backend، طراحی API، سامانه‌های مقیاس‌پذیر و یکپارچه‌سازی سیستم‌ها.</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data & Intelligence
+###  Data & Intelligence
 <div dir="rtl">پردازش و تحلیل داده، داده‌کاوی، مدل‌سازی، پیش‌بینی و سیستم‌های تصمیم‌یار.</div>
 
 </td>
@@ -77,7 +75,7 @@
 <tr>
 <td colspan="2" valign="top">
 
-### 🔬 Research & Development
+###  Research & Development
 <div dir="rtl">پژوهش کاربردی، توسعه الگوریتم، نمونه‌سازی، ارزیابی فناوری و بررسی فناوری‌های نوظهور.</div>
 
 </td>
@@ -88,7 +86,7 @@
 
 <a id="technology"></a>
 
-## 🛠️ Technology
+##  Technology
 
 <div align="center">
 
@@ -148,7 +146,7 @@
 
 <a id="work"></a>
 
-## 💼 Selected Work
+##  Selected Work
 
 | Area | Description | Stack |
 |---|---|---|
@@ -160,11 +158,11 @@
 
 <br>
 
-## 🎯 Engineering Philosophy
+##  Engineering Philosophy
 
 <div align="center">
 
-| 🔍 Research | 🏗️ Engineering | 💡 Innovation |
+|  Research |  Engineering |  Innovation |
 |:---:|:---:|:---:|
 | Understand the problem | Build reliable systems | Create useful technology |
 
@@ -176,7 +174,7 @@
 
 <img src="./tech-divider.svg" width="100%">
 
-## 🤝 Collaboration
+## Collaboration
 
 <div align="center">
 
